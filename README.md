@@ -15,6 +15,7 @@ Zenodo link: https://zenodo.org/record/7597994#.Y9t3QuxByAl
 **Wu N. C., Cramp R. L., & Franklin C. E.** (2018) Body size influences energetic and osmoregulatory costs in frogs infected with *Batrachochytrium dendrobatidis*. *Scientific Reports*, **3739**, 3739. DOI: [![DOI](https://zenodo.org/badge/DOI/10.1038/s41598-018-22002-8.svg)](https://doi.org/10.1038/s41598-018-22002-8)
 
 - data/Wu_2018/2018_Wu_conductivity.xlsx - Conductivity measurements.
+- data/Wu_2015/2018_Wu_IMI.xlsx - Recording of intermoult interval.
 - data/Wu_2015/2018_Wu_respirometry.xlsx - Respirometry measurements.
 
 
