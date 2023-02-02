@@ -11,3 +11,5 @@ This repository links to Zenodo reproduce the following articles:
 
 https://zenodo.org/record/7597994#.Y9t3QuxByAl
 
+## License
+This repository is provided by the authors under the MIT License ([MIT](http://opensource.org/licenses/MIT)).
